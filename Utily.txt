@@ -1,1 +1,1 @@
-Utility for version 1 of software
+Utility for version 2 of software
